@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 2E35-F7D8
-
- Directory of C:\Users\Sanjay YM\Desktop\My Git Folder
-
-25-03-2018  23:14    <DIR>          .
-25-03-2018  23:14    <DIR>          ..
-25-03-2018  23:14                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  279,014,232,064 bytes free
+Change 1
